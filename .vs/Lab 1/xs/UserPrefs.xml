@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{6EC032E3-4A4E-46C2-84EF-92162F870176}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BookStore.aspx.cs">
+    <Files>
+      <File FileName="BookStore.aspx" Line="1" Column="1" />
+      <File FileName="BookStore.aspx.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab 1" expanded="True">
+            <Node name="Lab 1" expanded="True">
+              <Node name="BookStore.aspx" expanded="True">
+                <Node name="BookStore.aspx.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lab_2201 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
